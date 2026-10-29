@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://albert534.dev"><b>Explore my portfolio ↗</b></a>
+  <a href="https://aungpaingooportfolio.netlify.app/#Portfolio"><b>Explore my portfolio ↗</b></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="https://github.com/Albert534">Follow along on GitHub</a>
 </p>
@@ -71,7 +71,7 @@ const aung = {
 
 <p align="center">
   <samp>BUILD IT. UNDERSTAND IT. MAKE IT BETTER.</samp><br/>
-  <sub>Want to see what I've been working on? <a href="https://albert534.dev">Take a look at my portfolio ↗</a></sub>
+  <sub>Want to see what I've been working on? <a href="https://aungpaingooportfolio.netlify.app/#Portfolio">Take a look at my portfolio ↗</a></sub>
 </p>
 
 <br/>
